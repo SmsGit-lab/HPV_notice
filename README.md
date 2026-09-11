@@ -1,4 +1,4 @@
-# 九价疫苗信息推送（jiujia-notice）
+# 九价疫苗信息推送
 
 一个基于 JavaFX 的桌面小工具：定时查询指定城市的九价 HPV 疫苗放号信息，发现新的放号信息后通过
 [PushDeer](https://www.pushdeer.com/) 推送到手机，程序常驻系统托盘，无需一直盯着电脑。
